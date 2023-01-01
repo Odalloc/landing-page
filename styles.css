@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline-color: red;
+}
+
+img {
+    display: block;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: 'Roboto', Arial, sans-serif;
+}
